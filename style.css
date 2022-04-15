@@ -1,0 +1,46 @@
+body{
+    background-color: #D2A7EB;
+    margin: 10%;
+}
+
+.container{
+    width: 50%;
+    margin: 20px auto 0px auto;
+    border-radius: 7px;
+    border: 5px solid #A68CD4;
+    padding: 3%;
+}
+
+h1{
+    color: #2a2238;
+}
+
+.add-task{
+    border: 5px solid #A68CD4;
+    background-color: #A68CD4;
+    color: #f6d7eb;
+}
+
+.new-task{
+    border: 2px solid #A68CD4;
+    margin-right: 10px;
+}
+
+
+ul li{
+    list-style-type: none;
+    color: #2a2238;
+}
+
+.removed{
+    color: gray;
+}
+
+.removed label{
+    text-decoration: line-through;
+}
+
+.change-title{
+    border: 2px solid #A68CD4;
+    margin-right: 10px;
+}
